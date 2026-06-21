@@ -31,6 +31,16 @@ m² = E² − pₓ² − pᵧ² − pz²
 
 Jet pairs are combined to reconstruct W bosons and then combined with b-jets to reconstruct top quark candidates.
 
+## Results
+
+### Top Quark Mass Distribution
+
+![Top Mass](top_mass_distribution.png)
+
+### W Boson Mass Distribution
+
+![W Mass](w_mass_distribution.png)
+
 ## Author
 
 Carolina Escalante  
