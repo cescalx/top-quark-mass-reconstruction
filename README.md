@@ -39,7 +39,8 @@ Jet pairs are combined to reconstruct W bosons and then combined with b-jets to 
 
 ### W Boson Mass Distribution
 
-![W Mass](w_mass_distribution.png)
+![W Mass](w_boson_distribution.png)
+
 
 ## Author
 
